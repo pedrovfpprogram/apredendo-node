@@ -1,0 +1,20 @@
+{
+  "name": "Codek",
+  "createdAt": "2026-10-07",
+  "watchDir": "/home/pedro/Documentos/aprendendo-node",
+  "logs": [
+    {
+      "date": "2026-10-07",
+      "count": 2,
+      "tags": [
+        "feat"
+      ]
+    }
+  ],
+  "lastGitCheck": "2026-10-07T23:44:14.204Z",
+  "curriculumIndex": 0,
+  "completedModules": [],
+  "reportedIssues": [
+    "cadastro.js|tem vários console.log — ok pra debugar, mas vale limpar depois"
+  ]
+}
